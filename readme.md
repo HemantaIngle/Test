@@ -1,0 +1,1 @@
+Hello, this is my first ever repository that  i am gonna create an make use of tiis is the first time when we are ging to learn how to create a reposoitory , how to  initilize , how to push, hhow to fetch , how to pull the repository , all the things that we are needed fi the python coding are to be added in the repository.
